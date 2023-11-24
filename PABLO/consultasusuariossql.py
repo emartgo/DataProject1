@@ -1,13 +1,3 @@
-import mysql.connector
-
-# Establecer la conexión a la base de datos
-conn = mysql.connector.connect(
-    host='tu_host',
-    user='tu_usuario',
-    password='tu_contraseña',
-    database='tu_base_de_datos'
-)
-
 # CAMBIAR LAS VARIABLES ACORDE A NUESTROS DATOS
 
 # Crear un nuevo cursor
